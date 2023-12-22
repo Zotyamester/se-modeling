@@ -1,6 +1,6 @@
 # Software Engineering (BMEVIMIAB04) - Modeling
 
-This repository is meant to collect some UML diagrams made as a laboratory project for the Software Engineering course (BMEVIMIAB04) at Budapest Univsersity of Technology and Economics.
+This repository is meant to collect some UML diagrams made as a laboratory project for the *Software Engineering* course ([BMEVIMIAB04](https://portal.vik.bme.hu/kepzes/targyak/VIMIAB04/en/)) at *Budapest Univsersity of Technology and Economics*.
 
 ## Screenshots of the diagrams (may be outdated)
 
